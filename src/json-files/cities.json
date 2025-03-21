@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Mumbai",
+    "lat": "19.0760",
+    "lng": "72.8777",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Maharashtra",
+    "capital": "admin",
+    "population": "12442373",
+    "population_proper": "12442373"
+  },
+  {
+    "city": "Delhi",
+    "lat": "28.6139",
+    "lng": "77.2090",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Delhi",
+    "capital": "primary",
+    "population": "31870000",
+    "population_proper": "16787941"
+  },
+  {
+    "city": "Bangalore",
+    "lat": "12.9716",
+    "lng": "77.5946",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Karnataka",
+    "capital": "admin",
+    "population": "8443675",
+    "population_proper": "8443675"
+  },
+  {
+    "city": "Hyderabad",
+    "lat": "17.3850",
+    "lng": "78.4867",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Telangana",
+    "capital": "admin",
+    "population": "6809970",
+    "population_proper": "6809970"
+  },
+  {
+    "city": "Chennai",
+    "lat": "13.0827",
+    "lng": "80.2707",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Tamil Nadu",
+    "capital": "admin",
+    "population": "4646732",
+    "population_proper": "4646732"
+  },
+  {
+    "city": "Kolkata",
+    "lat": "22.5726",
+    "lng": "88.3639",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "West Bengal",
+    "capital": "admin",
+    "population": "4496694",
+    "population_proper": "4496694"
+  },
+  {
+    "city": "Ahmedabad",
+    "lat": "23.0225",
+    "lng": "72.5714",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Gujarat",
+    "capital": "admin",
+    "population": "5570585",
+    "population_proper": "5570585"
+  },
+  {
+    "city": "Pune",
+    "lat": "18.5204",
+    "lng": "73.8567",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Maharashtra",
+    "capital": "admin",
+    "population": "3115431",
+    "population_proper": "3115431"
+  },
+  {
+    "city": "Jaipur",
+    "lat": "26.9124",
+    "lng": "75.7873",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Rajasthan",
+    "capital": "admin",
+    "population": "3046163",
+    "population_proper": "3046163"
+  },
+  {
+    "city": "Surat",
+    "lat": "21.1702",
+    "lng": "72.8311",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Gujarat",
+    "capital": "admin",
+    "population": "4467797",
+    "population_proper": "4467797"
+  }
+]
